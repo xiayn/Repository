@@ -8,5 +8,8 @@
         <?php
         echo "Hello jhhfhhfgWORLDkfdfg!";
         ?>
+        <?php
+        echo "Hello chan!";
+        ?>
     </body>
 </html>
